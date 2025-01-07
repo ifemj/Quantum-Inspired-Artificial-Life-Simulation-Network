@@ -11,3 +11,5 @@ Q
 !tests/artificial-life-nft.test.ts,6/3/63d39eecab4715a669198f54f6e6af102b352355
 ^
 .contracts/collaborative-research-platform.clar,7/4/74d01eaf351b01e0e8b6916e60224ab0141ff2d4
+]
+-tests/collaborative-research-platform.test.ts,1/2/12a3c4650dd2c2b010743de317ab0cf2ad392ee5

@@ -9,3 +9,5 @@ R
 "contracts/artificial-life-nft.clar,7/9/79da593d4622fc1b5a96769d74927f842019d2f8
 Q
 !tests/artificial-life-nft.test.ts,6/3/63d39eecab4715a669198f54f6e6af102b352355
+^
+.contracts/collaborative-research-platform.clar,7/4/74d01eaf351b01e0e8b6916e60224ab0141ff2d4

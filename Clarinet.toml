@@ -9,6 +9,11 @@ requirements = []
 path = 'contracts/artificial-life-management.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.artificial-life-nft]
+path = 'contracts/artificial-life-nft.clar'
+clarity_version = 2
+epoch = 2.5
 [repl.analysis]
 passes = ['check_checker']
 
